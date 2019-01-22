@@ -1,0 +1,63 @@
+#rightsec {
+    margin: 0px; /* remove all margins to fit two divs in the container */
+    display: inline-block; /* display block elements in one line */
+    position: fixed;
+    top: 15%;
+    left: 27%;
+  }
+  
+#leftsec {
+    margin: 0px;
+    display: inline-block;
+    position: fixed;
+    top: 20%;
+  }
+
+  #serversreport{
+      margin-left: 0px;
+      color: black;
+  }
+
+ h3{
+     color: black;
+ }
+
+ #serversreport{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    /* width: 80%; */
+    margin-top: 30px;
+    -webkit-column-width: 100px;
+    column-width: 100px;
+}
+
+#serversreport th, #serversreport td{
+    text-align: center;
+    padding: 8px;
+    color: black;
+}
+
+#serversreport td{
+    cursor: pointer;
+
+}
+
+#DefaultText{
+    position: fixed;
+    top:50%;
+    left: 45%;
+    color: grey;
+   font-size: 20px;
+}
+
+.vl{
+    border-left: 2px solid #056CBC;
+    height: 600px;
+    position: fixed;
+    left: 22%;
+    top: 22%;
+}
+
+/* tr:hover td {
+    background:rgb(48, 153, 233);
+} */

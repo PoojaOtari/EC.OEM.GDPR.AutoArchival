@@ -1,0 +1,43 @@
+#header{
+    width:100%;
+    
+}
+
+#header1{
+    margin-top: 7px;
+}
+
+#header2{
+    margin-top: 17px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    width: 400px;
+    color: black;
+    font-weight: bold;
+}
+
+#header3{
+    margin-top: 5px;
+    float: right;
+    text-align: right;
+    color: black;
+    margin-right: 20px;
+}
+
+#userpic{
+    width: 55px;
+    height:55px;
+    float:right;
+    margin-top:7px;
+}
+
+.row{
+    width:1290px;
+}
+
+#logo{
+    margin-top: 15px;
+    height:30px;
+    width:141px;
+}

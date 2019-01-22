@@ -1,0 +1,43 @@
+
+
+  #serversreport{
+      margin-left: 0px;
+      color: black;
+  }
+
+ h3{
+     color: black;
+ }
+
+ #serversreport{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    /* width: 80%; */
+    margin-top: 30px;
+    -webkit-column-width: 100px;
+    column-width: 100px;
+}
+
+#serversreport th, #serversreport td{
+    text-align: center;
+    padding: 8px;
+    color: black;
+}
+
+#serversreport td{
+    cursor: pointer;
+
+}
+
+#DefaultText{
+    position: fixed;
+    top:50%;
+    left: 45%;
+    color: grey;
+   font-size: 20px;
+}
+
+
+/* tr:hover td {
+    background:rgb(48, 153, 233);
+} */
