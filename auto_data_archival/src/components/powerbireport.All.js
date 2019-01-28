@@ -18,7 +18,7 @@ class PowerbireportAll extends Component {
         <div className='PowerbiReportAll'>
             <Header/>
             <Menubar/>
-          <iframe width="1050" height="580" src="https://msit.powerbi.com/view?r=eyJrIjoiODAzMDUwOTItZTBiZC00NTE1LTkyNWUtMzIyMGVhMjUxMWJiIiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9" frameborder="0" allowFullScreen="true"></iframe>
+          <iframe width="1250" height="580" src="https://msit.powerbi.com/reportEmbed?reportId=604d06cb-ea21-4f6a-88b0-02f6760cd26b&autoAuth=true" frameborder="0" allowFullScreen="true"></iframe>
           <br></br>    
           </div>
         );
